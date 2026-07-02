@@ -1,40 +1,39 @@
 <p align="center">
-  🌐 <a href="README.md"><b>English</b></a> | <a href="README.es.md">Español</a>
+  🌐 <a href="README.md">English</a> | <a href="README.es.md"><b>Español</b></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tristán</h1>
-<h3 align="center">ERP Developer (Business Central) → transitioning into AI & ML Engineering</h3>
+<h1 align="center">Hola 👋, soy Tristán</h1>
+<h3 align="center">ERP Developer (Business Central) → en transición hacia AI & ML Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TristanLacruz&label=Profile%20views&color=0e75b6&style=flat" alt="TristanLacruz" />
 </p>
 
-- 🔭 Currently working on **AL/C-AL development for Business Central** at Minsait (Indra Group)
+- 🔭 Actualmente trabajo en **desarrollo AL/C-AL para Business Central** en Minsait (Indra Group)
 
-- 🌱 Preparing for the **PL-300 (Power BI)** and **AI-102 (Azure)** certifications
+- 🌱 Preparando las certificaciones **PL-300 (Power BI)** y **AI-102 (Azure)**
 
-- 🎯 Goal: transitioning into a **Junior AI Developer / ML Engineer** role abroad (Germany, Switzerland, USA)
+- 🎯 Objetivo: dar el salto a un puesto de **Junior AI Developer / ML Engineer**
 
-- 🛠️ Featured projects: 
-  - Credit risk scoring with LightGBM (AUC-ROC 0.86, SHAP)
-  - Data leakage detection in a customer shopping behaviour model
+- 🛠️ Proyectos destacados: 
+  - Scoring de riesgo crediticio con LightGBM (AUC-ROC 0.86, SHAP) 
+  - Detección de leakage en un modelo de comportamiento de compra
 
-- 📫 Reach me: *lacruztristan@gmail.com*
-
----
-
-### 🎓 Education
-
-- Top Up Bachelor's in Business & Computing — University of London (in progress)
-
-- Postgraduate Specialization in Artificial Intelligence & Big Data — DigitechFP (GPA 9.0/10)
-
-- Higher Vocational Training Diploma in Multiplatform Application Development — IES Abastos
-
+- 📫 Contáctame: *lacruztristan@gmail.com*
 
 ---
 
-### 🧰 Languages & Tools
+### 🎓 Educación
+
+- Top Up Bachelor en Business & Computing — University of London (en curso)
+
+- Grado de Especialización en Inteligencia Artificial y Big Data — DigitechFP (Nota 9.0/10)
+
+- Grado Superior en Desarrollo de Aplicaciones Multiplataforma — IES Abastos
+
+---
+
+### 🧰 Lenguajes y herramientas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -51,7 +50,7 @@
 
 ---
 
-### 🔗 Connect with me in LinkedIn:
+### 🔗 Conecta conmigo en LinkedIn:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tristan-lacruz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
