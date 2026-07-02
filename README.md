@@ -16,8 +16,8 @@
 - 🎯 Goal: transitioning into a **Junior AI Developer / ML Engineer** role abroad (Germany, Switzerland, USA)
 
 - 🛠️ Featured projects: 
-  - Credit risk scoring with LightGBM (AUC-ROC 0.86, SHAP)
-  - Data leakage detection in a customer shopping behaviour model
+  - [Credit risk scoring with LightGBM (AUC-ROC 0.86, SHAP)](https://github.com/TristanLacruz/Loan-Default-Risk-Prediction-with-Machine-Learning)
+  - [Data leakage detection in a customer shopping behaviour model](https://github.com/TristanLacruz/Customer-Behaviour-ML-Analysis)
 
 - 📫 Reach me: *lacruztristan@gmail.com*
 
