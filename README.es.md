@@ -16,8 +16,8 @@
 - 🎯 Objetivo: dar el salto a un puesto de **Junior AI Developer / ML Engineer**
 
 - 🛠️ Proyectos destacados: 
-  - Scoring de riesgo crediticio con LightGBM (AUC-ROC 0.86, SHAP) 
-  - Detección de leakage en un modelo de comportamiento de compra
+  - [Scoring de riesgo crediticio con LightGBM (AUC-ROC 0.86, SHAP)](https://github.com/TristanLacruz/Loan-Default-Risk-Prediction-with-Machine-Learning)
+  - [Detección de leakage en un modelo de comportamiento de compra](https://github.com/TristanLacruz/Customer-Behaviour-ML-Analysis)
 
 - 📫 Contáctame: *lacruztristan@gmail.com*
 
