@@ -25,9 +25,9 @@
 
 ### 🎓 Educación
 
-- Top Up Bachelor en Business & Computing — University of London (en curso)
+- Grado en Inteligencia Artificial Aplicada — IU Internationale Hochschule (en curso)
 
-- Grado de Especialización en Inteligencia Artificial y Big Data — DigitechFP (Nota 9.0/10)
+- Grado de Especialización en Inteligencia Artificial y Big Data — DigitechFP (Nota 8.6/10)
 
 - Grado Superior en Desarrollo de Aplicaciones Multiplataforma — IES Abastos
 
