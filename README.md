@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **AL/C-AL development for Business Central** at Minsait (Indra Group)
 
-- 🌱 Preparing for the **PL-300 (Power BI)** and **AI-102 (Azure)** certifications
+- 🌱 Preparing for the **PL-300 (Power BI)** and **AI-103 (Azure)** certifications
 
 - 🎯 Goal: transitioning into a **Junior AI Developer / ML Engineer** role abroad (Germany, Switzerland, USA)
 
