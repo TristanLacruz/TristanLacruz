@@ -27,7 +27,7 @@
 
 - Top Up Bachelor's in Business & Computing — University of London (in progress)
 
-- Postgraduate Specialization in Artificial Intelligence & Big Data — DigitechFP (GPA 9.0/10)
+- Postgraduate Specialization in Artificial Intelligence & Big Data — DigitechFP (GPA 8.6/10)
 
 - Higher Vocational Training Diploma in Multiplatform Application Development — IES Abastos
 
