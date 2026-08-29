@@ -25,7 +25,7 @@
 
 ### 🎓 Education
 
-- Top Up Bachelor's in Business & Computing — University of London (in progress)
+- BSc Applied Artificial Intelligence - IU Internationale Hochschule (in progress)
 
 - Postgraduate Specialization in Artificial Intelligence & Big Data — DigitechFP (GPA 8.6/10)
 
